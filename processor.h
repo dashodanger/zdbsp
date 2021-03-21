@@ -5,13 +5,13 @@
 #pragma once
 #endif
 
-#include "wad.h"
+#include "zdwad.h"
 #include "doomdata.h"
 #include "workdata.h"
 #include "tarray.h"
 #include "nodebuild.h"
 #include "blockmapbuilder.h"
-#include <zlib.h>
+#include "zlib/zlib.h"
 
 class ZLibOut
 {
