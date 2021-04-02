@@ -7,4 +7,4 @@ various options (check zdmain.h).
 
 I implemented the existing, but unsused reject builders for both non-GL (DoomBSP algorithm) and GL nodes (Vis adaptation).
 
-I've removed various references to SSE/SSE2 due to facilitate cross-platform compilation.
+I've removed various references to SSE/SSE2 to facilitate cross-platform compilation.
